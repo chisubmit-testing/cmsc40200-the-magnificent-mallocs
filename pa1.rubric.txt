@@ -1,13 +1,13 @@
 Points:
     The PA1 Tests:
         Points Possible: 50
-        Points Obtained: 45
+        Points Obtained: 50
 
     The PA1 Design:
         Points Possible: 50
-        Points Obtained: 
+        Points Obtained: 45
 
-Total Points: 45 / 100
+Total Points: 95 / 100
 
 Comments: >
-    None
+    Great job!
